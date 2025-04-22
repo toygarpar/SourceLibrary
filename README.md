@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 # 📚 SourceLibrary English README
 
 Welcome to **SourceLibrary** – a curated personal library of learning materials, references, and useful documents across various fields of knowledge, with a primary focus on programming and computer science.
